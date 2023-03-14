@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d75c23f.css",
-    "main.js": "/static/js/main.0b749b3a.js",
+    "main.js": "/static/js/main.ec49b436.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/jcHome.png": "/static/media/jcHome.f14e878add9c10446a68.png",
     "static/media/taMore_explore.png": "/static/media/taMore_explore.f31a3747c237fe1acf01.png",
@@ -15,15 +15,14 @@
     "static/media/agHome.png": "/static/media/agHome.349adb103a94a0a4540b.png",
     "static/media/jcCheckout.png": "/static/media/jcCheckout.521fb2aa4d862f66d75e.png",
     "static/media/agFind_parking.png": "/static/media/agFind_parking.108390b166a9d35c2958.png",
-    "static/media/rohit_kumar_profile_photo.jpg": "/static/media/rohit_kumar_profile_photo.91b64b8cce780dcd67d1.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.6d75c23f.css.map": "/static/css/main.6d75c23f.css.map",
-    "main.0b749b3a.js.map": "/static/js/main.0b749b3a.js.map",
+    "main.ec49b436.js.map": "/static/js/main.ec49b436.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d75c23f.css",
-    "static/js/main.0b749b3a.js"
+    "static/js/main.ec49b436.js"
   ]
 }
