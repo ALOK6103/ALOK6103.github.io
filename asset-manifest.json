@@ -1,28 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.6d75c23f.css",
-    "main.js": "/static/js/main.bd09d358.js",
+    "main.js": "/static/js/main.b2224141.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bhome.png": "/static/media/bhome.7f858f299a4fb9a0922a.png",
     "static/media/bmens.png": "/static/media/bmens.1d876364c698d93bce7f.png",
     "static/media/HomeSn.png": "/static/media/HomeSn.15f5e2a2493bcec9657a.png",
     "static/media/bwomens.png": "/static/media/bwomens.1033f3a720995c068df0.png",
     "static/media/womens.png": "/static/media/womens.5f7faef3455c461ec22d.png",
+    "static/media/amzHome.png": "/static/media/amzHome.b4884adebd8161bc143c.png",
     "static/media/Admin.png": "/static/media/Admin.8cffb70561ee7b04f03d.png",
     "static/media/applehome.png": "/static/media/applehome.b5052152a6dcb322e47d.png",
     "static/media/applestore.png": "/static/media/applestore.ad33018ddaee69d5f180.png",
+    "static/media/amzProduct.png": "/static/media/amzProduct.192f1961bcb01e4a4881.png",
     "static/media/appledashboard.png": "/static/media/appledashboard.4a61279ce1f5c1d3ff4f.png",
-    "static/media/Alok_Kumar_Verma_Resume.pdf": "/static/media/Alok_Kumar_Verma_Resume.e73784873d03a6a5ff19.pdf",
+    "static/media/amzCart.png": "/static/media/amzCart.1eeba44fb2b2601e06f3.png",
     "static/media/appleadmin.png": "/static/media/appleadmin.b9459e43d9ed569b83ba.png",
+    "static/media/Alok_Kumar_Verma_Resume.pdf": "/static/media/Alok_Kumar_Verma_Resume.7a80d357048be3da24e9.pdf",
     "static/media/checkout.png": "/static/media/checkout.63086427a76575230f2a.png",
+    "static/media/amzCheck.png": "/static/media/amzCheck.788af069128421487cce.png",
     "static/media/signup.png": "/static/media/signup.a9feee2dd09be5ab7864.png",
     "index.html": "/index.html",
     "main.6d75c23f.css.map": "/static/css/main.6d75c23f.css.map",
-    "main.bd09d358.js.map": "/static/js/main.bd09d358.js.map",
+    "main.b2224141.js.map": "/static/js/main.b2224141.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d75c23f.css",
-    "static/js/main.bd09d358.js"
+    "static/js/main.b2224141.js"
   ]
 }
