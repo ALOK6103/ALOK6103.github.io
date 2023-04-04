@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d75c23f.css",
-    "main.js": "/static/js/main.583fa98e.js",
+    "main.js": "/static/js/main.f3e75115.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bhome.png": "/static/media/bhome.7f858f299a4fb9a0922a.png",
     "static/media/bmens.png": "/static/media/bmens.1d876364c698d93bce7f.png",
@@ -17,16 +17,16 @@
     "static/media/amzCart.png": "/static/media/amzCart.1eeba44fb2b2601e06f3.png",
     "static/media/appleadmin.png": "/static/media/appleadmin.b9459e43d9ed569b83ba.png",
     "static/media/checkout.png": "/static/media/checkout.63086427a76575230f2a.png",
-    "static/media/Alok_Kumar_Verma_Resume.pdf": "/static/media/Alok_Kumar_Verma_Resume.6e044659f580a95f0d1c.pdf",
+    "static/media/Alok-Kumar-Verma-Resume.pdf": "/static/media/Alok-Kumar-Verma-Resume.6e044659f580a95f0d1c.pdf",
     "static/media/amzCheck.png": "/static/media/amzCheck.788af069128421487cce.png",
     "static/media/signup.png": "/static/media/signup.a9feee2dd09be5ab7864.png",
     "index.html": "/index.html",
     "main.6d75c23f.css.map": "/static/css/main.6d75c23f.css.map",
-    "main.583fa98e.js.map": "/static/js/main.583fa98e.js.map",
+    "main.f3e75115.js.map": "/static/js/main.f3e75115.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d75c23f.css",
-    "static/js/main.583fa98e.js"
+    "static/js/main.f3e75115.js"
   ]
 }
